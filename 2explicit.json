@@ -1,0 +1,1264 @@
+[
+  {
+    "id": "71",
+    "query": "Antibiotics for UTIs not using fluoroquinolones.",
+    "documents": [
+      {
+        "doc_id": "DOC7101",
+        "text": "Nitrofurantoin monohydrate is first-line for uncomplicated UTIs due to its renal excretion and minimal resistance patterns, providing effective coverage without fluoroquinolone-associated tendon risks.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC7102",
+        "text": "Trimethoprim-sulfamethoxazole remains effective for community-acquired UTIs in regions with <20% resistance, offering an alternative to quinolone-based regimens.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC7103",
+        "text": "Ciprofloxacin (fluoroquinolone) achieves 95% eradication rates for complicated UTIs but carries FDA black box warnings for tendinopathy.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC7104",
+        "text": "Levofloxacin's broad-spectrum activity makes it overprescribed for simple UTIs despite contraindications in pregnancy.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC7105",
+        "text": "Fluoroquinolones like moxifloxacin are prohibited as first-line UTI treatments per 2016 FDA safety alerts.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC7106",
+        "text": "Norfloxacin use requires dose adjustment in renal impairment due to its fluoroquinolone properties.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_5690"
+  },
+  {
+    "id": "72",
+    "query": "Antipsychotics excluding second-generation agents.",
+    "documents": [
+      {
+        "doc_id": "DOC7201",
+        "text": "Haloperidol's potent D2 antagonism provides rapid control of acute psychosis without metabolic side effects of atypical antipsychotics.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC7202",
+        "text": "Fluphenazine decanoate injections enable long-term schizophrenia management through classic dopamine blockade, avoiding weight gain associated with newer agents.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC7203",
+        "text": "Risperidone (second-gen) combines serotonin-dopamine antagonism but increases diabetes risk by 3-fold compared to first-gen drugs.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC7204",
+        "text": "Olanzapine's 5-HT2A/D2 receptor profile makes it effective for negative symptoms despite metabolic syndrome concerns.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC7205",
+        "text": "Quetiapine's histamine receptor affinity causes sedation, a hallmark of second-generation antipsychotics.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC7206",
+        "text": "Aripiprazole's partial agonism differentiates it from first-gen antipsychotics but prolongs QTc interval.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_2248"
+  },
+  {
+    "id": "73",
+    "query": "Anemia treatments that should not contain iron supplements.",
+    "documents": [
+      {
+        "doc_id": "DOC7301",
+        "text": "Erythropoiesis-stimulating agents (darbepoetin alfa) correct anemia of chronic disease by bypassing iron-dependent hemoglobin synthesis pathways.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC7302",
+        "text": "Vitamin B12 injections restore normal erythropoiesis in pernicious anemia without iron administration.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC7303",
+        "text": "Ferrous sulfate 325mg TID remains first-line for iron-deficiency anemia despite GI side effects.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC7304",
+        "text": "Intravenous iron carboxymaltose rapidly replenishes stores in inflammatory bowel disease-associated anemia.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC7305",
+        "text": "Iron polysaccharide complexes cause fewer GI effects than ferrous salts but still contraindicated in hemochromatosis.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC7306",
+        "text": "Heme iron polypeptide supplements demonstrate 30% better absorption than non-heme iron.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_0433"
+  },
+  {
+    "id": "74",
+    "query": "ADHD medications avoiding stimulants.",
+    "documents": [
+      {
+        "doc_id": "DOC7401",
+        "text": "Atomoxetine's selective norepinephrine reuptake inhibition improves focus in ADHD without abuse potential or cardiovascular stimulation.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC7402",
+        "text": "Guanfacine XR modulates prefrontal cortex activity through alpha-2A agonism, offering non-stimulant symptom control.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC7403",
+        "text": "Methylphenidate (stimulant) demonstrates 70% response rates in ADHD but worsens tics in comorbid Tourette's.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC7404",
+        "text": "Lisdexamfetamine's prodrug design reduces misuse potential while maintaining stimulant efficacy for 14 hours.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC7405",
+        "text": "Dextroamphetamine increases dopamine release in the striatum, a key mechanism of stimulant medications.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC7406",
+        "text": "Stimulant medications cause appetite suppression in 30% of pediatric ADHD patients.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_0910"
+  },
+  {
+    "id": "75",
+    "query": "Anticoagulants never including warfarin.",
+    "documents": [
+      {
+        "doc_id": "DOC7501",
+        "text": "Direct oral anticoagulants (apixaban) provide predictable pharmacokinetics without INR monitoring requirements.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC7502",
+        "text": "Factor Xa inhibitors (rivaroxaban) demonstrate non-inferiority to traditional therapies for VTE prevention with lower bleeding rates.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC7503",
+        "text": "Warfarin's vitamin K antagonism remains essential for mechanical heart valves despite dietary interactions.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC7504",
+        "text": "Coumadin (warfarin) requires weekly INR checks due to narrow therapeutic index.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC7505",
+        "text": "Warfarin-induced skin necrosis occurs in 0.1% of patients with protein C deficiency.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC7506",
+        "text": "Bridging with warfarin is standard during invasive procedures despite DOAC alternatives.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_2563"
+  },
+  
+  {
+    "id": "20",
+    "query": "Studies on Parkinson's disease excluding levodopa.",
+    "documents": [
+      {
+        "doc_id": "DOC115",
+        "text": "Parkinson's treatment: MAO-B inhibitors improve symptoms without levodopa.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC116",
+        "text": "Parkinson's study: Deep brain stimulation avoids levodopa complications.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC117",
+        "text": "Levodopa/carbidopa remains most effective for bradykinesia in Parkinson's.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC118",
+        "text": "Continuous levodopa infusion reduces motor fluctuations by 60%.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC119",
+        "text": "New levodopa formulation extends ON-time by 2 hours daily.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC120",
+        "text": "Levodopa-responsive genes identified in Parkinson's subtypes.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_7108"
+  },
+  {
+    "id": "21",
+    "query": "Research on eczema treatments excluding topical steroids.",
+    "documents": [
+      {
+        "doc_id": "DOC121",
+        "text": "Eczema management: Calcineurin inhibitors clear flares.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC122",
+        "text": "Eczema study: Bleach baths avoid steroid overuse in pediatric cases.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC123",
+        "text": "Clobetasol (steroid) achieves 90% clearance in severe eczema.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC124",
+        "text": "Weekend steroid pulse therapy prevents eczema rebound.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC125",
+        "text": "New steroid-sparing ointment reduces TEWL by 40%.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC126",
+        "text": "Topical steroids prevent secondary infections in atopic dermatitis.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_7029"
+  },
+  {
+    "id": "22",
+    "query": "Studies on hepatitis C treatments excluding ribavirin.",
+    "documents": [
+      {
+        "doc_id": "DOC127",
+        "text": "Hep C cure: Glecaprevir/pibrentasvir achieves SVR12.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC128",
+        "text": "Hep C study: Sofosbuvir/velpatasvir reduces anemia risk.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC129",
+        "text": "Ribavirin boosts SVR rates to 95% in genotype 3 hep C.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC130",
+        "text": "Ribavirin reduces relapse in cirrhotic hep C patients.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC131",
+        "text": "New ribavirin pro-drug cuts hemolytic anemia cases by 50%.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC132",
+        "text": "Ribavirin enhances DAA efficacy in post-transplant hep C.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_6215"
+  },
+  {
+    "id": "23",
+    "query": "Research on osteoporosis excluding denosumab.",
+    "documents": [
+      {
+        "doc_id": "DOC133",
+        "text": "Osteoporosis: Teriparatide increases BMD.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC134",
+        "text": "Osteoporosis study: Romosozumab reduces rebound fractures.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC135",
+        "text": "Denosumab reduces vertebral fractures by 68% in postmenopausal women.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC136",
+        "text": "Denosumab outperforms bisphosphonates in glucocorticoid-induced osteoporosis.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC137",
+        "text": "New denosumab formulation allows biannual dosing.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC138",
+        "text": "Denosumab prevents hip fractures in elderly with renal impairment.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_7640"
+  },
+  
+  
+  {
+    "id": "30",
+    "query": "Studies on melanoma treatments excluding checkpoint inhibitors.",
+    "documents": [
+      {
+        "doc_id": "DOC175",
+        "text": "Melanoma therapy: BRAF/MEK inhibitors work without immunotherapy.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC176",
+        "text": "Melanoma study: Oncolytic viruses avoid checkpoint inhibitor colitis.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC177",
+        "text": "Pembrolizumab (anti-PD1) achieves 5-year survival in 40% of metastatic melanoma.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC178",
+        "text": "Combination ipilimumab/nivolumab doubles response rates.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC179",
+        "text": "New checkpoint inhibitor reduces immune-related adverse events.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC180",
+        "text": "Checkpoint inhibitors prevent brain metastases in advanced melanoma.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_5716"
+  },
+  {
+    "id": "1",
+    "query": "Find research on breast cancer treatments excluding hormone therapy or tamoxifen.",
+    "documents": [
+      {
+        "doc_id": "DOC001",
+        "text": "Immunotherapy combining PD-1 inhibitors shows 55% response rate in triple-negative breast cancer without hormonal treatments.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC002",
+        "text": "Targeted radiation reduces HER2+ breast cancer tumors by 70%, avoiding endocrine therapies.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC003",
+        "text": "Breast cancer study: Tamoxifen reduces recurrence by 40% in ER+ patients (10-year trial).",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC004",
+        "text": "Advanced breast cancer patients benefit from fulvestrant (hormone therapy) with 8-month survival extension.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC005",
+        "text": "Meta-analysis confirms hormone therapy (aromatase inhibitors) is superior to tamoxifen for breast cancer.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC006",
+        "text": "Breast cancer treatment guidelines recommend hormone therapy + CDK4/6 inhibitors as first-line.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_2817"
+  },
+  {
+    "id": "2",
+    "query": "Non-insulin treatments for Type 2 diabetes excluding GLP-1 agonists.",
+    "documents": [
+      {
+        "doc_id": "DOC007",
+        "text": "SGLT2 inhibitors reduce HbA1c by 1.5% in Type 2 diabetes, avoiding insulin or GLP-1 drugs.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC008",
+        "text": "Metformin improves glycemic control in Type 2 diabetes without injectable therapies.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC009",
+        "text": "Type 2 diabetes management: GLP-1 agonists (e.g., semaglutide) show superior weight loss.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC010",
+        "text": "Insulin pumps optimize control in refractory Type 2 diabetes cases.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC011",
+        "text": "Type 2 diabetes study: GLP-1 + basal insulin reduces hypoglycemia risks.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC012",
+        "text": "New ultra-long-acting insulin analogs benefit Type 2 diabetes patients with 24-hour coverage.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_2858"
+  },
+  {
+    "id": "3",
+    "query": "Alternative depression treatments excluding SSRIs or SNRIs.",
+    "documents": [
+      {
+        "doc_id": "DOC013",
+        "text": "TMS therapy achieves 50% remission in depression patients unresponsive to SSRIs.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC014",
+        "text": "Ketamine infusions relieve depression symptoms without serotonin modulation.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC015",
+        "text": "Depression treatment: Escitalopram (SSRI) is FDA-approved for major depressive disorder.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC016",
+        "text": "SNRIs like duloxetine are first-line for depression with chronic pain.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC017",
+        "text": "Depression study: SSRIs combined with CBT show better outcomes than monotherapy.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC018",
+        "text": "New SSRI variant reduces depression symptoms with fewer side effects.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_1504"
+  },
+  {
+    "id": "4",
+    "query": "Heart failure treatments excluding beta-blockers or ACE inhibitors.",
+    "documents": [
+      {
+        "doc_id": "DOC019",
+        "text": "Sacubitril-valsartan reduces heart failure hospitalizations by 30% without beta-blockers.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC020",
+        "text": "Ivabradine improves outcomes in heart failure patients intolerant to ACE inhibitors.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC021",
+        "text": "Heart failure guidelines: Beta-blockers (e.g., carvedilol) reduce mortality by 35%.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC022",
+        "text": "ACE inhibitors remain gold standard for systolic heart failure.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC023",
+        "text": "Heart failure meta-analysis: Beta-blockers + ACE inhibitors synergize for survival.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC024",
+        "text": "New ACE inhibitor variant reduces heart failure progression in elderly patients.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_3129"
+  },
+  {
+    "id": "5",
+    "query": "Lung cancer therapies excluding immunotherapy or platinum-based chemotherapy.",
+    "documents": [
+      {
+        "doc_id": "DOC025",
+        "text": "ROS1-targeted therapy (e.g., entrectinib) improves survival in non-immunotherapy lung cancer cases.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC026",
+        "text": "EGFR inhibitors show 70% response rate in lung adenocarcinoma without chemotherapy.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC027",
+        "text": "Lung cancer trial: Pembrolizumab (immunotherapy) extends PFS by 8 months vs. placebo.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC028",
+        "text": "Platinum-based chemo (cisplatin/carboplatin) is backbone of lung cancer treatment.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC029",
+        "text": "Lung cancer study: Immunotherapy + chemo improves survival in PD-L1-negative patients.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC030",
+        "text": "New platinum-derivative reduces lung cancer tumor size by 50% in phase III trials.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_5191"
+  },
+  {
+    "id": "51",
+    "query": "Migraine prophylaxis excluding beta-blockers.",
+    "documents": [
+      {
+        "doc_id": "DOC34011",
+        "text": "CGRP monoclonal antibodies prevent migraines without beta-blocker side effects.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC34021",
+        "text": "Topiramate reduces migraine frequency as a non-beta-blocker option.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC34031",
+        "text": "Propranolol (beta-blocker) cuts migraine days by 50% in clinical trials.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC34041",
+        "text": "Metoprolol is FDA-approved for migraine prevention.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC34051",
+        "text": "Beta-blockers remain first-line for migraine with hypertension.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC34061",
+        "text": "Timolol eye drops reduce vestibular migraine frequency.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_3461"
+  },
+  {
+    "id": "50",
+    "query": "Osteoporosis treatments excluding bisphosphonates.",
+    "documents": [
+      {
+        "doc_id": "DOC35011",
+        "text": "Denosumab increases bone density without bisphosphonate-related jaw necrosis risk.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC35012",
+        "text": "Teriparatide stimulates bone formation as an alternative to bisphosphonates.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC35013",
+        "text": "Alendronate (bisphosphonate) reduces vertebral fractures by 70%.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC35014",
+        "text": "Zoledronic acid infusions prevent hip fractures in elderly women.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC35015",
+        "text": "Bisphosphonates remain first-line for postmenopausal osteoporosis.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC35016",
+        "text": "Risedronate prevents glucocorticoid-induced osteoporosis.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_1032"
+  },
+  {
+    "id": "31",
+    "query": "Parkinson's disease treatments excluding levodopa.",
+    "documents": [
+      {
+        "doc_id": "DOC31011",
+        "text": "Recent clinical trials demonstrate that deep brain stimulation of the subthalamic nucleus provides significant motor symptom improvement in advanced Parkinson's disease patients who cannot tolerate dopaminergic medications due to severe dyskinesias.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC31021",
+        "text": "The MAO-B inhibitor rasagiline has shown neuroprotective effects in early-stage Parkinson's disease, delaying disease progression by 35% compared to placebo in longitudinal studies without using traditional dopamine replacement therapies.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC31031",
+        "text": "Levodopa-carbidopa intestinal gel infusion (LCIG) therapy delivers continuous dopaminergic stimulation through a portable pump system, reducing OFF periods by 4.2 hours daily compared to oral levodopa in advanced Parkinson's patients.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC31014",
+        "text": "A 10-year follow-up study confirmed that 72% of Parkinson's patients develop levodopa-induced dyskinesias, with peak-dose chorea being the most common movement disorder complication requiring dose adjustments.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC31015",
+        "text": "Extended-release levodopa formulations (IPX066) demonstrate 20% greater bioavailability and more stable plasma concentrations than immediate-release preparations, significantly reducing wearing-off phenomena in mid-stage Parkinson's disease.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC3106",
+        "text": "Levodopa remains the most efficacious pharmacological treatment for Parkinson's disease, with systematic reviews showing 45% greater Unified Parkinson's Disease Rating Scale (UPDRS) improvement compared to dopamine agonists monotherapy.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_1159"
+  },
+  {
+    "id": "32",
+    "query": "Asthma management strategies excluding corticosteroids.",
+    "documents": [
+      {
+        "doc_id": "DOC3201",
+        "text": "Bronchial thermoplasty, a novel bronchoscopic procedure, reduces airway smooth muscle mass by 60% in severe asthmatics, providing sustained symptom relief for up to 5 years without requiring any steroid-based treatments according to AIR2 trial data.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC3202",
+        "text": "The leukotriene receptor antagonist montelukast demonstrates equivalent efficacy to low-dose inhaled steroids in exercise-induced asthma, with pediatric studies showing 38% fewer exacerbations when used as first-line controller therapy in steroid-naive patients.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC3203",
+        "text": "Inhaled corticosteroids (ICS) form the cornerstone of persistent asthma management, with meta-analyses confirming 55% reduction in exacerbation rates compared to placebo, particularly in patients with eosinophilic airway inflammation.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC3204",
+        "text": "Systemic corticosteroid bursts (prednisone 40mg/day for 5 days) remain essential for moderate-to-severe asthma exacerbations, reducing ED visits by 30% and hospitalizations by 42% according to multicenter cohort studies.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC3205",
+        "text": "Combination ICS-LABA therapy (fluticasone/salmeterol) demonstrates superior asthma control compared to monocomponents, with SMART trials showing 25% lower severe exacerbation rates in patients with partially reversible airflow obstruction.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC3206",
+        "text": "Corticosteroid inhalers (budesonide 400mcg BID) prevent exercise-induced bronchoconstriction in 78% of athletes, with protection lasting up to 12 hours post-administration according to sports medicine clinical guidelines.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_5743"
+  },
+  {
+    "id": "33",
+    "query": "GERD treatments excluding proton pump inhibitors.",
+    "documents": [
+      {
+        "doc_id": "DOC3301",
+        "text": "Laparoscopic Nissen fundoplication provides durable GERD symptom resolution in 89% of patients at 10-year follow-up, with pH monitoring confirming normalization of esophageal acid exposure without requiring chronic PPI medication in refractory cases.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC3302",
+        "text": "Histamine-2 receptor antagonists (famotidine 40mg BID) maintain esophageal healing rates of 68% at 6 months in mild GERD patients, offering effective acid suppression as demonstrated in comparative effectiveness studies against antacids.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC3303",
+        "text": "Proton pump inhibitors (esomeprazole 40mg daily) achieve complete esophageal mucosal healing in 92% of erosive esophagitis cases within 8 weeks, with maintenance therapy preventing relapse in 85% of patients at 6 months.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC3304",
+        "text": "PPI therapy (pantoprazole) reduces esophageal adenocarcinoma risk by 43% in Barrett's esophagus patients according to population-based cohort studies, with dose-response analyses showing maximal chemoprevention at twice-daily dosing.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC3305",
+        "text": "Vonoprazan, a novel potassium-competitive acid blocker, demonstrates superior 24-hour intragastric pH control compared to PPIs in severe GERD, maintaining pH>4 for 85% of the time versus 72% with lansoprazole in head-to-head trials.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC3306",
+        "text": "Long-term PPI use prevents peptic stricture formation in chronic GERD, with endoscopic follow-up studies showing 80% reduction in stricture development compared to on-demand antacid therapy in elderly populations.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_2300"
+  },
+  {
+    "id": "34",
+    "query": "Migraine prophylaxis excluding beta-blockers.",
+    "documents": [
+      {
+        "doc_id": "DOC3401",
+        "text": "Calcitonin gene-related peptide (CGRP) monoclonal antibodies (erenumab 140mg monthly) reduce monthly migraine days by 4.3 compared to placebo in chronic migraine patients, offering targeted prevention without cardiovascular effects associated with adrenergic blockers.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC3402",
+        "text": "Topiramate titrated to 100mg daily demonstrates 50% responder rates in episodic migraine prevention, with particular efficacy in patients with comorbid epilepsy or bipolar disorder where beta-blockers are contraindicated.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC3403",
+        "text": "Propranolol LA 160mg daily remains first-line for migraine with aura, reducing attack frequency by 55% in clinical trials through beta-adrenergic blockade and cortical spreading depression modulation.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC3404",
+        "text": "Metoprolol succinate (95mg extended-release) shows equivalent efficacy to propranolol for migraine prevention but with better tolerability in hypertensive patients, as confirmed by the COMET study.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC3405",
+        "text": "Beta-blockers (particularly timolol and propranolol) are the only migraine preventives with Class I evidence according to AAN guidelines, reducing attack frequency by 44-65% across all migraine subtypes.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC3406",
+        "text": "Nadolol 80mg daily provides superior vestibular migraine prevention compared to calcium channel blockers, with 62% of patients achieving >50% reduction in vertigo attacks according to neurotology clinic data.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_9383"
+  },
+  {
+    "id": "35",
+    "query": "Osteoporosis treatments excluding bisphosphonates.",
+    "documents": [
+      {
+        "doc_id": "DOC3501",
+        "text": "Denosumab (60mg subcutaneously every 6 months) increases lumbar spine BMD by 9.2% over 3 years in postmenopausal osteoporosis while eliminating risk of atypical femoral fractures associated with long-term bisphosphonate use.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC3502",
+        "text": "Teriparatide (20\u03bcg daily) stimulates new bone formation through parathyroid hormone analog activity, achieving 65% reduction in vertebral fractures compared to baseline in patients who failed prior antiresorptive therapy.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC3503",
+        "text": "Alendronate (70mg weekly) demonstrates 70% relative risk reduction in vertebral fractures and 40% reduction in hip fractures over 3 years, establishing bisphosphonates as first-line for most osteoporosis cases.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC3504",
+        "text": "Zoledronic acid 5mg annual infusion reduces hip fracture risk by 41% in elderly women with osteoporosis, with effects persisting for 3 years post-infusion according to HORIZON trial data.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC3505",
+        "text": "Bisphosphonates (risedronate 35mg weekly) prevent glucocorticoid-induced bone loss by 80% at the lumbar spine, making them essential for patients on chronic steroid therapy.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC3506",
+        "text": "Ibandronate (150mg monthly) maintains bone density equally well as daily dosing, with gastrointestinal tolerability superior to other oral bisphosphonates in sensitive patients.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_3288"
+  },
+  {
+    "id": "36",
+    "query": "Rheumatoid arthritis therapies excluding TNF-alpha inhibitors.",
+    "documents": [
+      {
+        "doc_id": "DOC3601",
+        "text": "Janus kinase inhibitors (tofacitinib 5mg BID) achieve ACR50 response in 38% of RA patients at 6 months, providing targeted immunomodulation without TNF blockade mechanisms.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC3602",
+        "text": "IL-6 receptor antagonist tocilizumab (8mg/kg monthly) demonstrates superior radiographic progression prevention compared to traditional DMARDs in seropositive RA, particularly in patients with high acute phase reactants.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC3603",
+        "text": "Adalimumab (anti-TNF) combined with methotrexate achieves remission in 42% of early RA patients at 1 year, establishing TNF inhibitors as anchor biologic therapy.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC3604",
+        "text": "Etanercept shows 55% reduction in joint space narrowing compared to placebo at 2 years, with effects sustained through 10 years of continuous TNF inhibitor therapy.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC3605",
+        "text": "Golimumab (50mg monthly) maintains clinical response in 78% of RA patients who failed other TNF blockers, confirming class efficacy despite prior biologic exposure.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC3606",
+        "text": "Infliximab infusions prevent radiographic progression in 85% of severe RA cases, with dose escalation effectively overcoming immunogenicity in most patients.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_5516"
+  },
+  {
+    "id": "37",
+    "query": "Hypertension management excluding ACE inhibitors.",
+    "documents": [
+      {
+        "doc_id": "DOC3701",
+        "text": "Calcium channel blockers (amlodipine 10mg daily) reduce systolic BP by 25mmHg in salt-sensitive hypertension, providing effective control without affecting angiotensin pathways.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC3702",
+        "text": "Thiazide-like diuretics (chlorthalidone 25mg) demonstrate superior cardiovascular outcomes compared to ACE inhibitors in elderly hypertensives according to ALLHAT trial data.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC3703",
+        "text": "Lisinopril (ACE inhibitor) reduces proteinuria by 42% in hypertensive diabetics, offering renoprotection beyond blood pressure control alone.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC3704",
+        "text": "Ramipril prevents 22% of cardiovascular events in high-risk patients according to HOPE study, establishing ACE inhibitors as first-line in secondary prevention.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC3705",
+        "text": "ACE inhibitors (enalapril) delay dialysis initiation by 3.2 years in hypertensive CKD patients compared to ARBs in meta-analyses.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC3706",
+        "text": "Perindopril/indapamide combination reduces stroke risk by 43% in ADVANCE trial, outperforming other antihypertensive classes in diabetics.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_8602"
+  },
+  {
+    "id": "38",
+    "query": "Type 2 diabetes treatments excluding SGLT2 inhibitors.",
+    "documents": [
+      {
+        "doc_id": "DOC3801",
+        "text": "GLP-1 receptor agonists (semaglutide 1mg weekly) achieve HbA1c reduction up to 1.8% with additional 6.2% body weight loss, providing glycemic control through insulin-independent mechanisms.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC3802",
+        "text": "DPP-4 inhibitors (sitagliptin 100mg daily) demonstrate neutral cardiovascular effects while lowering postprandial glucose by 3.4mmol/L without affecting renal glucose excretion.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC3803",
+        "text": "Empagliflozin (SGLT2 inhibitor) reduces cardiovascular mortality by 38% in high-risk T2DM patients according to EMPA-REG OUTCOME trial.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC3804",
+        "text": "Canagliflozin shows 40% reduction in hHF admissions regardless of baseline HbA1c, confirming class-wide cardiorenal benefits of SGLT2 inhibition.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC3805",
+        "text": "Dapagliflozin prevents ESRD by 47% in CKD patients with/without diabetes in DAPA-CKD trial, expanding indications beyond glucose control.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC3806",
+        "text": "SGLT2 inhibitors (ertugliflozin) demonstrate 25% greater durability of glycemic effect compared to sulfonylureas at 4-year follow-up.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_9284"
+  },
+  {
+    "id": "151",
+    "query": "Diabetes medications that do not have SGLT2 inhibitors.",
+    "documents": [
+      {
+        "doc_id": "DOC15101",
+        "text": "GLP-1 receptor agonists like semaglutide provide glycemic control and weight loss benefits for type 2 diabetes patients through mechanisms independent of urinary glucose excretion.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC5102",
+        "text": "DPP-4 inhibitors such as sitagliptin lower blood glucose levels by prolonging active incretin hormones without affecting renal glucose reabsorption pathways.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC5103",
+        "text": "Empagliflozin, an SGLT2 inhibitor, reduces cardiovascular mortality by 38% in diabetic patients according to the EMPA-REG OUTCOME trial.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC5104",
+        "text": "Canagliflozin's mechanism of action depends entirely on SGLT2 inhibition in the proximal renal tubules to induce glucosuria.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC5105",
+        "text": "Dapagliflozin (Farxiga) is contraindicated in patients with type 1 diabetes due to its SGLT2-dependent effects.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC5106",
+        "text": "SGLT2 inhibitors require monitoring for euglycemic ketoacidosis, a class-specific adverse effect.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_3741"
+  },
+  {
+    "id": "152",
+    "query": "Depression treatments avoiding SSRIs.",
+    "documents": [
+      {
+        "doc_id": "DOC5201",
+        "text": "Bupropion's dopaminergic and noradrenergic activity makes it effective for depression with minimal sexual side effects compared to serotonergic agents.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC5202",
+        "text": "Mirtazapine demonstrates rapid onset of action for depressive symptoms through unique alpha-2 antagonism rather than serotonin reuptake inhibition.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC5203",
+        "text": "Escitalopram (Lexapro), an SSRI, remains first-line for major depressive disorder due to its favorable tolerability profile.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC5204",
+        "text": "Fluoxetine's SSRI mechanism requires 4-6 weeks for full therapeutic effect in depression treatment.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC5205",
+        "text": "Paroxetine's potent serotonin reuptake inhibition causes more discontinuation symptoms than other SSRIs.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC5206",
+        "text": "SSRI use during pregnancy increases risk of persistent pulmonary hypertension in newborns.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_1575"
+  },
+  {
+    "id": "153",
+    "query": "Hypertension drugs never including calcium channel blockers.",
+    "documents": [
+      {
+        "doc_id": "DOC5301",
+        "text": "ACE inhibitors like lisinopril control blood pressure effectively while providing renal protection in diabetic hypertensives through angiotensin II modulation.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC5302",
+        "text": "Thiazide diuretics reduce cardiovascular events by 25% in elderly hypertension without affecting vascular smooth muscle calcium channels.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC5303",
+        "text": "Amlodipine's calcium channel blockade causes peripheral edema in 15% of hypertensive patients at standard doses.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC5304",
+        "text": "Dihydropyridine CCBs like nifedipine are contraindicated in heart failure with reduced ejection fraction.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC5305",
+        "text": "Verapamil's non-dihydropyridine calcium channel effects make it useful for rate control in atrial fibrillation.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC5306",
+        "text": "Calcium channel blockers demonstrate superior blood pressure lowering in salt-sensitive hypertension.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_5112"
+  },
+  {
+    "id": "154",
+    "query": "Antibiotics for pneumonia not using fluoroquinolones.",
+    "documents": [
+      {
+        "doc_id": "DOC5401",
+        "text": "Beta-lactam/macrolide combinations (ceftriaxone + azithromycin) cover typical and atypical pathogens in community-acquired pneumonia without fluoroquinolone-associated tendon risks.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC5402",
+        "text": "Doxycycline remains effective for MRSA pneumonia in penicillin-allergic patients when fluoroquinolones are contraindicated.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC5403",
+        "text": "Levofloxacin's broad-spectrum activity makes it ideal for healthcare-associated pneumonia despite FDA black box warnings.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC5404",
+        "text": "Moxifloxacin achieves excellent lung penetration due to its fluoroquinolone properties but carries CNS toxicity risks.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC5405",
+        "text": "Fluoroquinolones require dose adjustment in renal impairment due to accumulation concerns.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC5406",
+        "text": "Ciprofloxacin use for pneumonia has declined due to pneumococcal resistance development.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_7612"
+  },
+  {
+    "id": "155",
+    "query": "Migraine preventives where triptans should not be used.",
+    "documents": [
+      {
+        "doc_id": "DOC5501",
+        "text": "Topiramate's multiple mechanisms (sodium channel blockade, carbonic anhydrase inhibition) provide migraine prophylaxis without vasoconstrictive effects.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC5502",
+        "text": "Beta-blockers like propranolol prevent migraines through adrenergic modulation rather than serotonin receptor agonism.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC5503",
+        "text": "Sumatriptan's 5-HT1B/1D agonism relieves acute migraine but is contraindicated in vascular disease.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC5504",
+        "text": "Rizatriptan demonstrates faster onset than other triptans but carries similar cardiovascular restrictions.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC5505",
+        "text": "Triptan overuse leads to medication-overuse headaches in 25% of chronic migraine patients.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC5506",
+        "text": "Eletriptan's blood-brain barrier penetration makes it more effective for migraines with aura.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_3219"
+  },
+  {
+    "id": "156",
+    "query": "Anticoagulants omit direct thrombin inhibitors.",
+    "documents": [
+      {
+        "doc_id": "DOC5601",
+        "text": "Vitamin K antagonists like warfarin remain cost-effective for mechanical heart valves despite requiring frequent INR monitoring.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC5602",
+        "text": "Factor Xa inhibitors (apixaban) demonstrate superior safety profiles for atrial fibrillation stroke prevention compared to traditional therapies.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC5603",
+        "text": "Dabigatran's direct thrombin inhibition requires reversal with idarucizumab in bleeding emergencies.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC5604",
+        "text": "Argatroban is the only parenteral direct thrombin inhibitor approved for HIT treatment.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC5605",
+        "text": "Bivalirudin's thrombin-specific binding makes it ideal for PCI anticoagulation.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC5606",
+        "text": "Direct thrombin inhibitors lack specific antidotes except for dabigatran.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_4141"
+  },
+  {
+    "id": "157",
+    "query": "ADHD medications that are not stimulants.",
+    "documents": [
+      {
+        "doc_id": "DOC5701",
+        "text": "Atomoxetine's selective norepinephrine reuptake inhibition improves ADHD symptoms without abuse potential or schedule II restrictions.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC5702",
+        "text": "Guanfacine XR targets prefrontal alpha-2A receptors to enhance working memory in ADHD, avoiding dopaminergic side effects.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC5703",
+        "text": "Methylphenidate's dopamine transporter blockade provides rapid ADHD symptom control but carries addiction risks.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC5704",
+        "text": "Amphetamine salts demonstrate superior efficacy to non-stimulants in adult ADHD according to meta-analyses.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC5705",
+        "text": "Lisdexamfetamine's prodrug design reduces abuse potential while maintaining stimulant efficacy.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC5706",
+        "text": "Stimulant medications cause appetite suppression in 30% of pediatric ADHD patients.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_8054"
+  },
+  {
+    "id": "58",
+    "query": "Chronic pain management without opioids.",
+    "documents": [
+      {
+        "doc_id": "DOC5801",
+        "text": "Gabapentinoids like pregabalin provide neuropathic pain relief through calcium channel modulation, avoiding mu-opioid receptor activation.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC5802",
+        "text": "SNRIs such as duloxetine demonstrate efficacy in fibromyalgia and chronic musculoskeletal pain through central noradrenergic mechanisms.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC5803",
+        "text": "Oxycodone CR remains widely prescribed for chronic low back pain despite addiction risks and limited long-term efficacy evidence.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC5804",
+        "text": "Transdermal fentanyl patches carry high overdose risk due to variable absorption rates in opioid-naive patients.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC5805",
+        "text": "Tramadol's dual opioid and SNRI activity makes it particularly dangerous for serotonin syndrome interactions.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC5806",
+        "text": "Methadone maintenance requires careful QTc monitoring due to opioid receptor affinity and potassium channel effects.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_7611"
+  },
+  {
+    "id": "59",
+    "query": "Antifungal therapies that are not azoles.",
+    "documents": [
+      {
+        "doc_id": "DOC5901",
+        "text": "Echinocandins like caspofungin target fungal cell wall synthesis through 1,3-beta-D-glucan inhibition, avoiding cytochrome P450 interactions.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC5902",
+        "text": "Terbinafine's squalene epoxidase inhibition provides fungicidal activity against dermatophytes without affecting ergosterol biosynthesis.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC5903",
+        "text": "Fluconazole's azole mechanism requires hepatic dose adjustment due to CYP2C19 metabolism.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC5904",
+        "text": "Itraconazole demonstrates the strongest CYP3A4 inhibition among systemic azole antifungals.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC5905",
+        "text": "Voriconazole's azole structure causes photosensitivity and visual disturbances in 30% of patients.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC5906",
+        "text": "Posaconazole requires acidic gastric pH for optimal absorption due to its azole properties.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_2696"
+  }
+  
+]
